@@ -1,4 +1,4 @@
-## 🖥 University Website
+# 🖥 University Website
 
 ## Project Overview
 
@@ -15,7 +15,7 @@ This is a responsive university website built as my first web development projec
 	•	CSS3 (Flexbox, Grid)
 	•	JavaScript (for interactivity and navigation)
 
-## Live Demo
+## ⏺️  Live Demo
 
 You can view a live demo of the website here:
 Live Demo on CodePen: [https://codepen.io/Shreyan639/pen/ZEgyWeq](https://codepen.io/Shreyan639/pen/ZEgyWeq)
